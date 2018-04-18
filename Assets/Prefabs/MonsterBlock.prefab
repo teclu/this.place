@@ -386,6 +386,9 @@ MonoBehaviour:
     type: 2}
   DestroyedSound: {fileID: 82828001692260854, guid: b47ef45978d91a5469544238047d57c4,
     type: 2}
+  SelfDestructEmitter: {fileID: 0}
+  GreyedOutColor: {r: 0.7137255, g: 0.7137255, b: 0.7137255, a: 0}
+  FadeInSpeed: 5
 --- !u!212 &212884392673552770
 SpriteRenderer:
   m_ObjectHideFlags: 1

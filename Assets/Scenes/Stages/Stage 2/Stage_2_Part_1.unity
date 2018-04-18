@@ -17686,7 +17686,7 @@ Prefab:
     - target: {fileID: 114715911418043306, guid: 55106369e1ec2f94591ed8cc6bbf077c,
         type: 2}
       propertyPath: Plugins.Array.size
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4869944850807714, guid: 55106369e1ec2f94591ed8cc6bbf077c, type: 2}
       propertyPath: m_LocalPosition.x
