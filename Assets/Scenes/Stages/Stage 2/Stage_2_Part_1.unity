@@ -17686,7 +17686,7 @@ Prefab:
     - target: {fileID: 114715911418043306, guid: 55106369e1ec2f94591ed8cc6bbf077c,
         type: 2}
       propertyPath: Plugins.Array.size
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4869944850807714, guid: 55106369e1ec2f94591ed8cc6bbf077c, type: 2}
       propertyPath: m_LocalPosition.x
@@ -17740,6 +17740,17 @@ Prefab:
       propertyPath: TransparentMaterial
       value: 
       objectReference: {fileID: 2100000, guid: 565fd81533bcc5242b3b82395a256e0e, type: 2}
+    - target: {fileID: 114715911418043306, guid: 55106369e1ec2f94591ed8cc6bbf077c,
+        type: 2}
+      propertyPath: Plugins.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 759350186e48ca441b664570026cbf7b,
+        type: 2}
+    - target: {fileID: 23123771044120512, guid: 55106369e1ec2f94591ed8cc6bbf077c,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5d36637cf511d1a4fa5175ea2867c23e, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 55106369e1ec2f94591ed8cc6bbf077c, type: 2}
   m_IsPrefabParent: 0
